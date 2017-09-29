@@ -1,0 +1,1999 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"Message",
+				"MessageController@create"
+			],
+			[
+				"delivery",
+				"deliveryZone"
+			],
+			[
+				"strip",
+				"strip_tags"
+			],
+			[
+				"kl",
+				"klaviyoRequest"
+			],
+			[
+				"_conf",
+				"_configFile"
+			],
+			[
+				"_con",
+				"_configFile"
+			],
+			[
+				"class",
+				"class_exists"
+			],
+			[
+				"acti",
+				"activeGroups"
+			],
+			[
+				"inser",
+				"inserts"
+			],
+			[
+				"tableI",
+				"tableInvoiceCompany"
+			],
+			[
+				"c",
+				"city"
+			],
+			[
+				"ad",
+				"address2"
+			],
+			[
+				"add",
+				"address1"
+			],
+			[
+				"addre",
+				"address1"
+			],
+			[
+				"UN",
+				"UNIQUE\t(createCommitteeTable.sql)"
+			],
+			[
+				"Auth",
+				"AuthenticationException"
+			],
+			[
+				"Aut",
+				"Authentication\t(ReadDoc.php)"
+			],
+			[
+				"Dec",
+				"Decorator"
+			],
+			[
+				"Deco",
+				"DecoratorInterface\t(Method.php)"
+			],
+			[
+				"Decr",
+				"DecoratorInterface"
+			],
+			[
+				"sort",
+				"sortStandards($data)\tmixed"
+			],
+			[
+				"meetings",
+				"meetingstatus"
+			],
+			[
+				"id",
+				"idcommittee"
+			],
+			[
+				"sim",
+				"simplexml_load_string"
+			],
+			[
+				"strto",
+				"strtolower"
+			],
+			[
+				"update",
+				"updateSchemaSettings"
+			],
+			[
+				"block",
+				"block_length"
+			],
+			[
+				"active",
+				"activeRestaurant"
+			],
+			[
+				"resta",
+				"restaurantOptions"
+			],
+			[
+				"booking",
+				"booking_span"
+			],
+			[
+				"preg_repa",
+				"preg_replace"
+			],
+			[
+				"base64_",
+				"base64_encode"
+			],
+			[
+				"filter",
+				"filteredText"
+			],
+			[
+				"img",
+				"imageUrl"
+			],
+			[
+				"str_re",
+				"str_replace"
+			],
+			[
+				"lang",
+				"language"
+			],
+			[
+				"open",
+				"openHouseTitle"
+			],
+			[
+				"err",
+				"error_log"
+			],
+			[
+				"filt",
+				"filteredText"
+			],
+			[
+				"bookin",
+				"booking_span"
+			],
+			[
+				"unwa",
+				"unwantedElements"
+			],
+			[
+				"un",
+				"unwantedElements"
+			],
+			[
+				"unt",
+				"unwantedElement"
+			],
+			[
+				"co",
+				"content"
+			],
+			[
+				"re",
+				"restaurantId"
+			],
+			[
+				"Re",
+				"Restaurant\tRestaurant"
+			],
+			[
+				"numb",
+				"numberOfSlots"
+			],
+			[
+				"timeslot",
+				"timeSlots"
+			],
+			[
+				"blo",
+				"blockLength"
+			],
+			[
+				"cre",
+				"createNew"
+			],
+			[
+				"Res",
+				"RestaurantOption\tRestaurantOption"
+			],
+			[
+				"rest",
+				"restaurantId"
+			],
+			[
+				"ope",
+				"opening"
+			],
+			[
+				"book",
+				"bookableHours"
+			],
+			[
+				"sea",
+				"seatingSections"
+			],
+			[
+				"fetch",
+				"fetchSlots"
+			],
+			[
+				"data-",
+				"data-section"
+			],
+			[
+				"query",
+				"querySelector"
+			],
+			[
+				"empty",
+				"emptySection"
+			],
+			[
+				"Rest",
+				"RestaurantTimeGroupData\tRestaurantTimeGroupData"
+			],
+			[
+				"tim",
+				"timegroups"
+			],
+			[
+				"getOpt",
+				"getOptimalSeatTime"
+			],
+			[
+				"exi",
+				"existingIds"
+			],
+			[
+				"render",
+				"renderTimeSlots"
+			],
+			[
+				"optima",
+				"optimal_seat_time"
+			],
+			[
+				"optim",
+				"optimal_seat_time"
+			],
+			[
+				"minimum",
+				"minimum_seat_time"
+			],
+			[
+				"RE",
+				"RESTAURANT_PARAM"
+			],
+			[
+				"res",
+				"restaurantId"
+			],
+			[
+				"opt",
+				"options_update_interval"
+			],
+			[
+				"fet",
+				"fetchRestaurant"
+			],
+			[
+				"group",
+				"group_variables"
+			],
+			[
+				"mst",
+				"mstTimes"
+			],
+			[
+				"sectio",
+				"sectionEmpty"
+			],
+			[
+				"clso",
+				"closingHours"
+			],
+			[
+				"num",
+				"number_of_seats"
+			],
+			[
+				"sect",
+				"sectionCcg"
+			],
+			[
+				"nu",
+				"number_of_seats"
+			],
+			[
+				"ccg",
+				"sectionCcg"
+			],
+			[
+				"sec",
+				"sectionCcg"
+			],
+			[
+				"number",
+				"numberOfSeats"
+			],
+			[
+				"max",
+				"max_booked_guests"
+			],
+			[
+				"col",
+				"colspan"
+			],
+			[
+				"get",
+				"getElementById"
+			],
+			[
+				"booka",
+				"bookable_seats"
+			],
+			[
+				"tab",
+				"table"
+			],
+			[
+				"set",
+				"setAttribute"
+			],
+			[
+				"colspan",
+				"colspanBlank"
+			],
+			[
+				"table",
+				"tableIndex"
+			],
+			[
+				"closing",
+				"closingHours"
+			],
+			[
+				"split",
+				"splitDate"
+			],
+			[
+				"spli",
+				"splitDate"
+			],
+			[
+				"start",
+				"start_time"
+			],
+			[
+				"minS",
+				"minSeatTimeMinutes"
+			],
+			[
+				"minSeatTime",
+				"minSeatTimeHours"
+			],
+			[
+				"minCom",
+				"minCompSize"
+			],
+			[
+				"minSeat",
+				"minSeatTime"
+			],
+			[
+				"first",
+				"firstCheck"
+			],
+			[
+				"opening",
+				"openingHours"
+			],
+			[
+				"current",
+				"currentTime"
+			],
+			[
+				"stan",
+				"Standard"
+			],
+			[
+				"extra",
+				"extractMinutes"
+			],
+			[
+				"cure",
+				"currentTime"
+			],
+			[
+				"Restaura",
+				"RestaurantTimeGroups\tRestaurantTimeGroups"
+			],
+			[
+				"tableS",
+				"tableSpanFormatted"
+			],
+			[
+				"RES",
+				"Restaurant\tRestaurant"
+			],
+			[
+				"rem",
+				"remaining_section"
+			],
+			[
+				"remain",
+				"remaining_section"
+			],
+			[
+				"remaining_",
+				"remaining_restaurant"
+			],
+			[
+				"interval",
+				"intervalStr"
+			],
+			[
+				"possibl",
+				"possibleCount"
+			],
+			[
+				"poss",
+				"possibleTimeDec"
+			],
+			[
+				"pos",
+				"possibleTimeInc"
+			],
+			[
+				"inter",
+				"intervalStr"
+			],
+			[
+				"curren",
+				"currentTime"
+			],
+			[
+				"curre",
+				"currentTime"
+			],
+			[
+				"json_",
+				"json_encode"
+			],
+			[
+				"ext",
+				"extractMinutes"
+			],
+			[
+				"cc",
+				"ccgArray"
+			],
+			[
+				"json",
+				"json_encode"
+			],
+			[
+				"addi",
+				"additionalSeats"
+			],
+			[
+				"today",
+				"todayFormatted"
+			],
+			[
+				"getBooka",
+				"getBookableHours"
+			],
+			[
+				"restau",
+				"restaurant"
+			],
+			[
+				"grou",
+				"group_variables"
+			],
+			[
+				"parse",
+				"parseInt"
+			],
+			[
+				"sta",
+				"standard"
+			],
+			[
+				"utf8",
+				"utf8_encode"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "database/migrations/2017_09_29_074931_create_message_table.php",
+			"settings":
+			{
+				"buffer_size": 741,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "database/migrations/2017_09_29_081926_create_comment_table.php",
+			"settings":
+			{
+				"buffer_size": 821,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "resources/views/layouts/master.blade.php",
+			"settings":
+			{
+				"buffer_size": 1699,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "routes/web.php",
+			"settings":
+			{
+				"buffer_size": 945,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/Http/Controllers/MessageController.php",
+			"settings":
+			{
+				"buffer_size": 1456,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "resources/views/message/view.blade.php",
+			"settings":
+			{
+				"buffer_size": 264,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "resources/views/message/index.blade.php",
+			"settings":
+			{
+				"buffer_size": 235,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/Message.php",
+			"settings":
+			{
+				"buffer_size": 396,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 357.0,
+		"last_filter": "use",
+		"selected_items":
+		[
+			[
+				"use",
+				"PHPCompanion:Find Use"
+			],
+			[
+				"phpfmt",
+				"phpfmt: toggle format on save"
+			],
+			[
+				"xdebug ",
+				"Xdebug: Restart Session"
+			],
+			[
+				"xdebug start",
+				"Xdebug: Start Debugging"
+			],
+			[
+				"xdebug",
+				"Xdebug: Stop Debugging"
+			],
+			[
+				"xdebug resta",
+				"Xdebug: Restart Session"
+			],
+			[
+				"view",
+				"View: Toggle Menu"
+			],
+			[
+				"vie",
+				"View: Toggle Menu"
+			],
+			[
+				"outl",
+				"Browse Mode: Outline (Right)"
+			],
+			[
+				"sidebar",
+				"View: Toggle Open Files in Side Bar"
+			],
+			[
+				"format",
+				"phpfmt: format now"
+			],
+			[
+				"outline",
+				"Browse Mode: Outline (Right)"
+			],
+			[
+				"form",
+				"phpfmt: toggle format on save"
+			],
+			[
+				"format ",
+				"phpfmt: toggle format on save"
+			],
+			[
+				"show",
+				"Git: Show Tags"
+			],
+			[
+				"synt",
+				"Set Syntax: PHP"
+			],
+			[
+				"phpfmt toggle",
+				"phpfmt: toggle format on save"
+			],
+			[
+				"phpfmt togg",
+				"phpfmt: toggle format on save"
+			],
+			[
+				"phpfmt ",
+				"phpfmt: toggle format on save"
+			],
+			[
+				"phpftm came",
+				"phpfmt: toggle PSR1 - Class and Methods names"
+			],
+			[
+				"phpftm",
+				"phpfmt: enable/disable additional transformations"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"outlin",
+				"Browse Mode: Outline (Right)"
+			],
+			[
+				"rein",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"out",
+				"Browse Mode: Outline (Right)"
+			],
+			[
+				"rei",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"syntax jso",
+				"Set Syntax: JSON"
+			],
+			[
+				"layout",
+				"Xdebug: Restore Layout"
+			],
+			[
+				"json",
+				"JSON Reindent: reindent file or selection"
+			],
+			[
+				"reind",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"xdeb",
+				"Xdebug: Stop Debugging"
+			],
+			[
+				"xde",
+				"Xdebug: Restart Session"
+			],
+			[
+				"synta",
+				"Set Syntax: PHP"
+			],
+			[
+				"syntax json",
+				"Set Syntax: JSON"
+			],
+			[
+				"xdebug rest",
+				"Xdebug: Restart Session"
+			],
+			[
+				"xa",
+				"Xdebug: Start Debugging"
+			],
+			[
+				"xdebug star",
+				"Xdebug: Restart Session"
+			],
+			[
+				"xdebug add",
+				"Xdebug: Add/Remove Breakpoint"
+			],
+			[
+				"keyb",
+				"Preferences: Key Bindings"
+			],
+			[
+				"outli",
+				"Browse Mode: Outline (Right)"
+			],
+			[
+				"DocBlock",
+				"phpfmt: generate PHPDoc block"
+			],
+			[
+				"syntax php",
+				"Set Syntax: PHP"
+			],
+			[
+				"indent",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"reinde",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"htmlb",
+				"HTMLBeautify"
+			],
+			[
+				"code folding",
+				"Code Folding: Unfold All"
+			],
+			[
+				"fold",
+				"Code Folding: Fold Tag Attributes"
+			],
+			[
+				"viw",
+				"View: Toggle Menu"
+			],
+			[
+				"phpfmt psr",
+				"phpfmt: toggle PSR2"
+			],
+			[
+				"key",
+				"Preferences: Key Bindings"
+			],
+			[
+				"php ana",
+				"phpfmt: analyse this"
+			],
+			[
+				"return",
+				"Snippet: return"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"phpcs",
+				"PHP Code Sniffer: Sniff this file"
+			],
+			[
+				"compo",
+				"Composer: Install"
+			],
+			[
+				"composer",
+				"Composer: Self Update"
+			],
+			[
+				"git status",
+				"Git: Status"
+			],
+			[
+				"refresh",
+				"Project: Refresh Folders"
+			],
+			[
+				"refres",
+				"Project: Refresh Folders"
+			],
+			[
+				"sass",
+				"Set Syntax: Sass"
+			],
+			[
+				"apa",
+				"Set Syntax: Apache Conf"
+			],
+			[
+				"package",
+				"Package Control: List Packages"
+			],
+			[
+				"vi",
+				"View: Toggle Menu"
+			],
+			[
+				"blade",
+				"Set Syntax: Laravel Blade"
+			],
+			[
+				"git",
+				"Git: Status"
+			],
+			[
+				"phpCo",
+				"PHPCompanion:Find Use"
+			],
+			[
+				"php",
+				"PHPCompanion:Find Use"
+			],
+			[
+				"use ",
+				"PHPCompanion:Find Use"
+			],
+			[
+				"git pull",
+				"Git: Pull"
+			],
+			[
+				"v",
+				"View: Toggle Menu"
+			],
+			[
+				"git push",
+				"Git: Push"
+			],
+			[
+				"git commit",
+				"Git: Commit"
+			],
+			[
+				"git add ",
+				"Git: Add All"
+			],
+			[
+				"vue",
+				"Set Syntax: Vue Component"
+			],
+			[
+				"syntax blade",
+				"Set Syntax: Laravel Blade"
+			],
+			[
+				"menu",
+				"View: Toggle Menu"
+			],
+			[
+				"box",
+				"Boxy Theme: Activation"
+			]
+		],
+		"width": 518.0
+	},
+	"console":
+	{
+		"height": 140.0,
+		"history":
+		[
+			"import requests",
+			"requests.get('www.google.com')",
+			"import requests",
+			"import pycurl",
+			"exec",
+			"sublime.version()",
+			"git status",
+			"git",
+			"git add .",
+			"git"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": false,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": true,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/home/ricatt/Projects/kurs/message-board",
+		"/home/ricatt/Projects/kurs/message-board/app",
+		"/home/ricatt/Projects/kurs/message-board/app/Http",
+		"/home/ricatt/Projects/kurs/message-board/app/Http/Controllers",
+		"/home/ricatt/Projects/kurs/message-board/resources",
+		"/home/ricatt/Projects/kurs/message-board/resources/views",
+		"/home/ricatt/Projects/kurs/message-board/resources/views/layouts",
+		"/home/ricatt/Projects/kurs/message-board/resources/views/message",
+		"/home/ricatt/Projects/kurs/message-board/routes"
+	],
+	"file_history":
+	[
+		"/home/ricatt/Projects/kurs/message-board/database/migrations/2014_10_12_100000_create_password_resets_table.php",
+		"/home/ricatt/Projects/kurs/message-board/database/migrations/2014_10_12_000000_create_users_table.php",
+		"/home/ricatt/Projects/kurs/message-board/message-board.sublime-project",
+		"/home/ricatt/Projects/twistshake/twistshake.sublime-project",
+		"/home/ricatt/Projects/todo_app_it_h-gskolan/app/Http/Controllers/ToDoController.php",
+		"/home/ricatt/Projects/todo_app_it_h-gskolan/app/todo.php",
+		"/home/ricatt/dumps/Dump20170927.sql",
+		"/home/ricatt/Projects/twistshake/env.json",
+		"/home/ricatt/Projects/twistshake/application/modules/default/models/DbTable/Product.php",
+		"/home/ricatt/Projects/twistshake/application/modules/default/models/DbTable/Attribute.php",
+		"/home/ricatt/Projects/twistshake/application/layouts/scripts/default.phtml",
+		"/home/ricatt/Projects/twistshake/application/modules/default/models/DbTable/Order.php",
+		"/home/ricatt/Projects/twistshake/application/modules/default/controllers/CartController.php",
+		"/home/ricatt/Projects/twistshake/application/modules/default/views/scripts/order/view.phtml",
+		"/home/ricatt/Projects/twistshake/library/SellBase/Controller/Plugin/Navigation.php",
+		"/home/ricatt/Projects/twistshake/twistshake/application/modules/default/forms/Checkout.php",
+		"/home/ricatt/Projects/twistshake/twistshake/application/modules/default/controllers/CheckoutController.php",
+		"/home/ricatt/Projects/twistshake/twistshake/application/modules/default/views/scripts/cart/view.phtml",
+		"/home/ricatt/Projects/twistshake/twistshake/application/modules/default/controllers/OrderController.php",
+		"/home/ricatt/Projects/twistshake/twistshake/application/modules/default/controllers/CartController.php",
+		"/home/ricatt/Projects/twistshake/application/modules/default/models/Cron/Klaviyo.php",
+		"/home/ricatt/Downloads/Twistshake/twistshake.sql",
+		"/home/ricatt/Projects/python-html-scrape/test.py",
+		"/home/ricatt/Projects/python-tinkering/main.py",
+		"/home/ricatt/Projects/ReflectorDocBlock/src/Decorator/Decorator.php",
+		"/home/ricatt/Projects/ReflectorDocBlock/run.php",
+		"/home/ricatt/Projects/twistshake/application/modules/default/controllers/CheckoutController.php",
+		"/home/ricatt/Projects/twistshake/application/modules/default/views/scripts/checkout/index.phtml",
+		"/home/ricatt/Projects/twistshake/public/js/default/checkout.js",
+		"/home/ricatt/Projects/twistshake/application/modules/default/views/scripts/cart/view.phtml",
+		"/home/ricatt/Projects/twistshake/library/SellBase/Controller/Plugin/InitRoute.php",
+		"/home/ricatt/Projects/twistshake/application/modules/default/models/Payment/Abstract.php",
+		"/home/ricatt/Projects/twistshake/application/configs/database.ini",
+		"/home/ricatt/Projects/twistshake/library/Zend/Application/Resource/Router.php",
+		"/home/ricatt/Projects/twistshake/library/Zend/Rest/Route.php",
+		"/home/ricatt/Projects/twistshake/library/Zend/Controller/Router/Route.php",
+		"/home/ricatt/Projects/twistshake/application/modules/admin/controllers/LocaleController.php",
+		"/var/www/html/bisvalue/wp-content/themes/shield/style.css",
+		"/var/www/html/bisvalue/wp-content/themes/shield/templates/mypages/report-edit.php",
+		"/var/www/html/bisvalue/wp-content/themes/shield/includes/functions-report.php",
+		"/var/www/html/bisvalue/wp-content/themes/shield/index.php",
+		"/var/www/html/bisvalue/wp-content/themes/shield/templates/report/step-five.php",
+		"/var/www/html/bisvalue/wp-content/themes/shield/templates/report/step-six.php",
+		"/var/www/html/bisvalue/wp-content/themes/shield/templates/report/step-four.php",
+		"/home/ricatt/.ssh/id_rsa.pub",
+		"/home/ricatt/.ssh/id_rsa",
+		"/var/www/html/bisvalue/wp-config.php",
+		"/var/www/html/bisvalue/wp-settings.php",
+		"/var/www/html/bisvalue/wp-content/themes/shield/checkout.php",
+		"/var/www/html/bisvalue/wp-content/plugins/woocommerce-gateway-klarna/classes/class-klarna-to-wc.php",
+		"/var/www/html/bisvalue/wp-content/plugins/woocommerce/includes/abstracts/abstract-wc-data.php",
+		"/var/www/html/bisvalue/wp-content/plugins/bisvalue/woocommerce.php",
+		"/var/www/html/bisvalue/wp-content/themes/shield/templates/report/step-two.php",
+		"/var/www/html/bisvalue/wp-content/plugins/PayEx.WooCommerce-master/vendor/aait/payex-wordpress-api/src/PayEx/Px.php",
+		"/var/www/html/bisvalue/wp-content/plugins/woocommerce/includes/class-wc-order-item-product.php",
+		"/var/www/html/bisvalue/wp-content/plugins/bisvalue/api.php",
+		"/home/ricatt/Projects/sek-soap/run.php",
+		"/home/ricatt/Projects/sek-soap/TODO",
+		"/home/ricatt/Projects/sek-soap/LimeClient.php",
+		"/home/ricatt/Projects/ReflectorDocBlock/decorator.ini",
+		"/home/ricatt/Documents/labb 2 - frånvaro",
+		"/home/ricatt/Projects/ReflectorDocBlock/src/Decorator/ReadDoc.php",
+		"/home/ricatt/Projects/ReflectorDocBlock/tests/MethodTest.php",
+		"/home/ricatt/Projects/ReflectorDocBlock/src/Decorator/Lib/Authentication/Authenticate.php",
+		"/home/ricatt/Projects/ReflectorDocBlock/tests/ConfigTest.php",
+		"/home/ricatt/Projects/ReflectorDocBlock/src/Decorator/Lib/Config.php",
+		"/home/ricatt/Projects/ReflectorDocBlock/Test.php",
+		"/home/ricatt/Projects/ReflectorDocBlock/README.md",
+		"/home/ricatt/Projects/ReflectorDocBlock/src/Decorator/Lib/ParseConfig.php",
+		"/home/ricatt/.config/sublime-text-3/Packages/User/phpfmt.sublime-settings",
+		"/home/ricatt/Projects/sek-soap/Main.php",
+		"/home/ricatt/Projects/sek-soap/xml/loadCommittee.xml",
+		"/home/ricatt/Projects/sek-soap/Database.php",
+		"/home/ricatt/Projects/sek-soap/sorting.php",
+		"/home/ricatt/Projects/sek-soap/xml/loadPerson.xml",
+		"/home/ricatt/Projects/sek-soap/sql/createCompanyTable.sql",
+		"/home/ricatt/Projects/sek-soap/sql/companySQL.sql",
+		"/home/ricatt/Projects/sek-soap/sql/invoicecompanySQL.sql",
+		"/home/ricatt/Projects/sek-soap/sql/createInvoiceCompanyTable.sql",
+		"/home/ricatt/Projects/sek-soap/sql/createPersonTable.sql",
+		"/home/ricatt/Projects/sek-soap/sql/personSQL.sql",
+		"/home/ricatt/Projects/sek-soap/xml/loadMeetings.xml",
+		"/home/ricatt/Projects/Test.php",
+		"/home/ricatt/Projects/ReflectorDocBlock/src/Decorator/Lib/Exceptions/InvalidMethodException.php",
+		"/home/ricatt/Projects/garden-glory/wp-content/themes/MystileGG/woocommerce/single-product/product-image.php",
+		"/home/ricatt/Projects/garden-glory/wp-content/themes/MystileGG/includes/js/general.js",
+		"/home/ricatt/Downloads/live_gardenglory.sql",
+		"/home/ricatt/Downloads/live_gardenglory-migrate-20170919124446.sql.gz",
+		"/home/ricatt/Projects/elof-hansson-live/wp-includes/general-template.php",
+		"/home/ricatt/Projects/elof-hansson-live/wp-content/themes/elofhansson/footer.php",
+		"/home/ricatt/Projects/twistshake/composer.json",
+		"/home/ricatt/Projects/ReflectorDocBlock/src/Decorator/Lib/RequestMethods/Method.php",
+		"/home/ricatt/Projects/ReflectorDocBlock/src/Decorator/Lib/DecoratorInterface.php",
+		"/home/ricatt/Projects/ReflectorDocBlock/tests/AuthTest.php",
+		"/home/ricatt/Projects/ReflectorDocBlock/src/Decorator/Lib/AbstractDecorator.php",
+		"/home/ricatt/Projects/ReflectorDocBlock/src/Decorator/Libraries/RequestMethods/Method.php",
+		"/home/ricatt/Projects/ReflectorDocBlock/src/Decorator/Libraries/Method.php",
+		"/home/ricatt/Projects/twistshake/application/modules/admin/controllers/UserController.php",
+		"/home/ricatt/Projects/twistshake/public/assets/vendor/ckeditor/plugins/bidi/plugin.js",
+		"/home/ricatt/Projects/twistshake/library/SellBase/Form.php",
+		"/home/ricatt/Projects/twistshake/library/Zend/Form.php",
+		"/home/ricatt/Projects/twistshake/application/modules/default/models/Cron/Adyen.php",
+		"/home/ricatt/Projects/twistshake/library/Zend/Session/Namespace.php",
+		"/home/ricatt/Projects/twistshake/application/modules/admin/controllers/BannerController.php",
+		"/home/ricatt/Projects/twistshake/library/SellBase/Db/Table/Abstract.php",
+		"/home/ricatt/Projects/twistshake/application/modules/default/models/Media.php",
+		"/home/ricatt/Projects/twistshake/application/modules/default/views/scripts/blog/category.phtml",
+		"/home/ricatt/Projects/twistshake/application/modules/default/controllers/IndexController.php",
+		"/home/ricatt/powernap-server.sh",
+		"/home/ricatt/Projects/twistshake/application/modules/admin/controllers/IndexController.php",
+		"/home/ricatt/Projects/twistshake/application/modules/default/controllers/WishlistController.php",
+		"/home/ricatt/Projects/twistshake/library/Zend/Db/Table/Abstract.php",
+		"/home/ricatt/Projects/twistshake/application/modules/default/controllers/XmlController.php",
+		"/home/ricatt/Projects/sekSoap/xml/loadCommittee.xml",
+		"/home/ricatt/Projects/sekSoap/run.php",
+		"/home/ricatt/Projects/sekSoap/Database.php",
+		"/home/ricatt/Projects/sekSoap/sorting.php",
+		"/home/ricatt/Projects/sekSoap/sql/standardsSQL.sql",
+		"/home/ricatt/Projects/sekSoap/sql/createStandardsTable.sql",
+		"/home/ricatt/Projects/sekSoap/xml/loadSubStandards.xml",
+		"/home/ricatt/Projects/sekSoap/sql/committeeSQL.sql",
+		"/home/ricatt/Projects/sekSoap/sql/subcommitteeSQL.sql",
+		"/home/ricatt/Projects/sekSoap/sql/meetingsSQL.sql",
+		"/home/ricatt/Projects/sekSoap/xml/loadMeetings.xml",
+		"/home/ricatt/Projects/sekSoap/sql/createMeetingTable.sql",
+		"/home/ricatt/Projects/sekSoap/sql/createCommitteeTable.sql",
+		"/home/ricatt/Projects/kurs/ovning_11/sql/fetchVendors.sql",
+		"/home/ricatt/Projects/sekSoap/xml/loadHandbooks.xml"
+	],
+	"find":
+	{
+		"height": 24.0
+	},
+	"find_in_files":
+	{
+		"height": 128.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"created"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 6,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "database/migrations/2017_09_29_074931_create_message_table.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 741,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								410,
+								410
+							]
+						],
+						"settings":
+						{
+							"git_gutter_is_enabled": false,
+							"intellitip_row": 17,
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 7,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "database/migrations/2017_09_29_081926_create_comment_table.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 821,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								645,
+								645
+							]
+						],
+						"settings":
+						{
+							"git_gutter_is_enabled": false,
+							"intellitip_row": 22,
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 138.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "resources/views/layouts/master.blade.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1699,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1699,
+								1699
+							]
+						],
+						"settings":
+						{
+							"git_gutter_is_enabled": false,
+							"intellitip_row": 71,
+							"syntax": "Packages/Laravel Blade Highlighter/blade.sublime-syntax",
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1380.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "routes/web.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 945,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								665,
+								665
+							]
+						],
+						"settings":
+						{
+							"git_gutter_is_enabled": false,
+							"intellitip_row": 20,
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 208.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "app/Http/Controllers/MessageController.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1456,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								492,
+								492
+							]
+						],
+						"settings":
+						{
+							"git_gutter_is_enabled": false,
+							"intellitip_row": 20,
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "resources/views/message/view.blade.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 264,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								263,
+								263
+							]
+						],
+						"settings":
+						{
+							"git_gutter_is_enabled": false,
+							"intellitip_row": 12,
+							"open_with_edit": true,
+							"syntax": "Packages/Laravel Blade Highlighter/blade.sublime-syntax",
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "resources/views/message/index.blade.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 235,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								167,
+								167
+							]
+						],
+						"settings":
+						{
+							"git_gutter_is_enabled": false,
+							"intellitip_row": 4,
+							"syntax": "Packages/Laravel Blade Highlighter/blade.sublime-syntax",
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "app/Message.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 396,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								386,
+								386
+							]
+						],
+						"settings":
+						{
+							"git_gutter_is_enabled": false,
+							"intellitip_row": 23,
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 24.0
+	},
+	"input":
+	{
+		"height": 40.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.autopep8":
+	{
+		"height": 106.0
+	},
+	"output.composer":
+	{
+		"height": 106.0
+	},
+	"output.exec":
+	{
+		"height": 0.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.git":
+	{
+		"height": 94.0
+	},
+	"output.unsaved_changes":
+	{
+		"height": 82.0
+	},
+	"output.xdebug":
+	{
+		"height": 106.0
+	},
+	"pinned_build_system": "",
+	"project": "message-board.sublime-project",
+	"replace":
+	{
+		"height": 44.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"messagecon",
+				"app/Http/Controllers/MessageController.php"
+			],
+			[
+				"message.",
+				"app/Message.php"
+			],
+			[
+				"view.blade.php",
+				"resources/views/message/view.blade.php"
+			],
+			[
+				"web",
+				"routes/web.php"
+			],
+			[
+				"messagecont",
+				"app/Http/Controllers/MessageController.php"
+			],
+			[
+				"route",
+				"library/SellBase/Controller/Plugin/InitRoute.php"
+			],
+			[
+				"frontcontr",
+				"library/Zend/Application/Resource/Frontcontroller.php"
+			],
+			[
+				"cartcon",
+				"application/modules/default/controllers/CartController.php"
+			],
+			[
+				"cart/vie",
+				"application/modules/default/views/scripts/cart/view.phtml"
+			],
+			[
+				"cart.phtml",
+				"application/modules/default/views/scripts/cart/view.phtml"
+			],
+			[
+				"checkout",
+				"application/modules/default/forms/Checkout.php"
+			],
+			[
+				"checkoutc",
+				"application/modules/default/controllers/CheckoutController.php"
+			],
+			[
+				"cart",
+				"application/modules/default/controllers/CartController.php"
+			],
+			[
+				"kla",
+				"application/modules/default/models/Cron/Klaviyo.php"
+			],
+			[
+				"klav",
+				"application/modules/default/models/Cron/Klaviyo.php"
+			],
+			[
+				"rout",
+				"library/Zend/Rest/Route.php"
+			],
+			[
+				"report",
+				"wp-content/themes/shield/templates/mypages/report-edit.php"
+			],
+			[
+				"step",
+				"wp-content/themes/shield/templates/report/step-four.php"
+			],
+			[
+				"step-",
+				"wp-content/themes/shield/templates/report/step-five.php"
+			],
+			[
+				"api.php",
+				"wp-content/plugins/bisvalue/api.php"
+			],
+			[
+				"wc-gateway-payex-pay",
+				"wp-content/plugins/PayEx.WooCommerce-master/includes/class-wc-gateway-payex-payment.php"
+			],
+			[
+				"px.php",
+				"wp-content/plugins/PayEx.WooCommerce-master/vendor/aait/payex-wordpress-api/src/PayEx/Px.php"
+			],
+			[
+				"checkout.php",
+				"wp-content/themes/shield/checkout.php"
+			],
+			[
+				"abstract-wc-data",
+				"wp-content/plugins/woocommerce/includes/abstracts/abstract-wc-data.php"
+			],
+			[
+				"klarna-to-wc",
+				"wp-content/plugins/woocommerce-gateway-klarna/classes/class-klarna-to-wc.php"
+			],
+			[
+				"wc-order-item-pro",
+				"wp-content/plugins/woocommerce/includes/class-wc-order-item-product.php"
+			],
+			[
+				"general.js",
+				"wp-content/themes/MystileGG/includes/js/general.js"
+			],
+			[
+				"general.",
+				"wp-content/themes/MystileGG/includes/js/general.js"
+			],
+			[
+				"general",
+				"wp-content/themes/MystileGG/includes/js/general.js"
+			],
+			[
+				"category.phtml",
+				"application/modules/default/views/scripts/blog/category.phtml"
+			],
+			[
+				"indexcont",
+				"application/modules/default/controllers/IndexController.php"
+			],
+			[
+				"indexcon",
+				"application/modules/admin/controllers/IndexController.php"
+			],
+			[
+				"timeslotse",
+				"module/Application/src/Application/Service/TimeSlotService.php"
+			],
+			[
+				"test-too",
+				"public/js/test-tool-configurations.js"
+			],
+			[
+				"test-to",
+				"public/js/test-tool-configurations.js"
+			],
+			[
+				"index.ph",
+				"module/TestTool/view/test-tool/index/index.phtml"
+			],
+			[
+				"testtoolc",
+				"module/KvernerietAPI/src/KvernerietAPI/Controller/TestToolController.php"
+			],
+			[
+				"test-tool",
+				"public/js/test-tool.js"
+			],
+			[
+				"testtool",
+				"module/KvernerietAPI/src/KvernerietAPI/Controller/TestToolController.php"
+			],
+			[
+				"apicon",
+				"app/Http/Controllers/ApiController.php"
+			],
+			[
+				"api.",
+				"routes/api.php"
+			],
+			[
+				"apico",
+				"app/Http/Controllers/ApiController.php"
+			],
+			[
+				"api",
+				"routes/api.php"
+			],
+			[
+				"update_me",
+				"database/migrations/2017_08_24_150822_update_messages_table.php"
+			],
+			[
+				"create_user",
+				"database/migrations/2017_08_16_192241_create_user_table.php"
+			],
+			[
+				"main.css",
+				"public/css/main.css"
+			],
+			[
+				"timeslotser",
+				"module/Application/src/Application/Service/TimeSlotService.php"
+			],
+			[
+				"restauranttimegroupd",
+				"module/Application/src/Application/Entity/RestaurantTimeGroupData.php"
+			],
+			[
+				"testtoolcon",
+				"module/KvernerietAPI/src/KvernerietAPI/Controller/TestToolController.php"
+			],
+			[
+				"crawlb",
+				"app/Jobs/CrawlBuzzFeedPage.php"
+			],
+			[
+				"restaura",
+				"module/Application/src/Application/Entity/Restaurant.php"
+			],
+			[
+				"booking",
+				"module/Application/src/Application/Entity/Booking.php"
+			],
+			[
+				"index.p",
+				"module/TestTool/view/test-tool/index/index.phtml"
+			],
+			[
+				"bord.ph",
+				"module/Application/src/Application/Entity/Bord.php"
+			],
+			[
+				"restaurantopt",
+				"module/Application/src/Application/Entity/RestaurantOption.php"
+			],
+			[
+				"index.pht",
+				"module/TestTool/view/test-tool/index/index.phtml"
+			],
+			[
+				"restaurantt",
+				"module/Application/src/Application/Entity/RestaurantTimeGroups.php"
+			],
+			[
+				"resta",
+				"module/Application/src/Application/Entity/Restaurant.php"
+			],
+			[
+				"timeslots",
+				"module/Application/src/Application/Service/TimeSlotService.php"
+			],
+			[
+				"bord",
+				"module/Application/src/Application/Entity/Bord.php"
+			],
+			[
+				"restauranttime",
+				"module/Application/src/Application/Entity/RestaurantTimeGroups.php"
+			],
+			[
+				"restaurantop",
+				"module/Application/src/Application/Entity/RestaurantOption.php"
+			],
+			[
+				"rest",
+				"module/Application/src/Application/Entity/Restaurant.php"
+			],
+			[
+				"section",
+				"module/Application/src/Application/Entity/SeatingSection.php"
+			],
+			[
+				"seating",
+				"module/Application/src/Application/Entity/SeatingSection.php"
+			],
+			[
+				"restaur",
+				"module/Application/src/Application/Entity/Restaurant.php"
+			],
+			[
+				"seatings",
+				"module/Application/src/Application/Entity/SeatingSection.php"
+			],
+			[
+				"timeslot",
+				"module/Application/src/Application/Entity/TimeSlot.php"
+			],
+			[
+				"timegrou",
+				"module/Application/src/Application/Entity/RestaurantTimeGroups.php"
+			],
+			[
+				"index.phtml",
+				"module/TestTool/view/test-tool/index/index.phtml"
+			],
+			[
+				"error.",
+				"data/log/error.log"
+			],
+			[
+				"timeblock",
+				"module/Application/src/Application/Entity/TimeBlock.php"
+			],
+			[
+				"tablebook",
+				"module/Application/src/Application/Entity/TableBookableHour.php"
+			],
+			[
+				"restauran",
+				"module/Application/src/Application/Entity/Restaurant.php"
+			],
+			[
+				"error",
+				"data/log/error.log"
+			],
+			[
+				"restaurantbook",
+				"module/Application/src/Application/Entity/RestaurantBookableHour.php"
+			],
+			[
+				"restaurant",
+				"module/Application/src/Application/Entity/Restaurant.php"
+			],
+			[
+				"data/log",
+				"data/log/error.log"
+			],
+			[
+				"db.qs",
+				"db.sql"
+			],
+			[
+				"logincontr",
+				"app/Http/Controllers/Auth/LoginController.php"
+			],
+			[
+				"handler",
+				"app/Exceptions/Handler.php"
+			],
+			[
+				"articlefollow",
+				"app/ArticleUserFollow.php"
+			],
+			[
+				"tagcon",
+				"app/Http/Controllers/TagController.php"
+			],
+			[
+				"notification",
+				"resources/assets/js/components/Notifications.vue"
+			],
+			[
+				"all-thre",
+				"resources/views/article/all-threads.blade.php"
+			],
+			[
+				"articlecon",
+				"app/Http/Controllers/ArticleController.php"
+			],
+			[
+				"follow",
+				"app/Http/Controllers/FollowArticleController.php"
+			],
+			[
+				"notification.vue",
+				"resources/assets/js/components/Notifications.vue"
+			],
+			[
+				"articlecont",
+				"app/Http/Controllers/ArticleController.php"
+			],
+			[
+				"registercon",
+				"app/Http/Controllers/Auth/RegisterController.php"
+			],
+			[
+				"view.vue",
+				"resources/assets/js/components/article/View.vue"
+			],
+			[
+				"commentcon",
+				"app/Http/Controllers/CommentController.php"
+			],
+			[
+				"lara",
+				"storage/logs/laravel.log"
+			],
+			[
+				".env",
+				".env"
+			],
+			[
+				"config/",
+				"config/app.php"
+			],
+			[
+				"laravel.",
+				"storage/logs/laravel.log"
+			],
+			[
+				"config/app",
+				"config/app.php"
+			],
+			[
+				"all-threads.",
+				"resources/views/article/all-threads.blade.php"
+			],
+			[
+				"thread.vue",
+				"resources/assets/js/components/article/Thread.vue"
+			],
+			[
+				"notifications.vue",
+				"resources/assets/js/components/Notifications.vue"
+			],
+			[
+				"app.bla",
+				"resources/views/layouts/app.blade.php"
+			],
+			[
+				"notefications.vue",
+				"resources/assets/js/components/Notefications.vue"
+			],
+			[
+				"profile.bla",
+				"resources/views/user/profile.blade.php"
+			],
+			[
+				"articlefol",
+				"app/ArticleUserFollow.php"
+			],
+			[
+				"noteficationcon",
+				"app/Http/Controllers/NoteficationController.php"
+			],
+			[
+				"create",
+				"resources/views/article/create.blade.php"
+			],
+			[
+				"usercont",
+				"app/Http/Controllers/UserController.php"
+			],
+			[
+				"profile-s",
+				"resources/views/user/profile-settings.blade.php"
+			],
+			[
+				"create.bla",
+				"resources/views/article/create.blade.php"
+			],
+			[
+				"articlecontr",
+				"app/Http/Controllers/ArticleController.php"
+			],
+			[
+				"app.blade",
+				"resources/views/layouts/app.blade.php"
+			],
+			[
+				"viewv",
+				"resources/assets/js/components/article/View.vue"
+			],
+			[
+				"api.p",
+				"routes/api.php"
+			],
+			[
+				"commentcont",
+				"app/Http/Controllers/CommentController.php"
+			],
+			[
+				"profile-sett",
+				"resources/views/user/profile-settings.blade.php"
+			],
+			[
+				"createcha",
+				"resources/assets/js/components/article/CreateChallenge.vue"
+			],
+			[
+				"updatecha",
+				"resources/assets/js/components/article/UpdateChallenge.vue"
+			],
+			[
+				"update-c",
+				"resources/views/article/update-challenge.blade.php"
+			],
+			[
+				"view.bla",
+				"resources/views/article/view.blade.php"
+			],
+			[
+				"logincont",
+				"app/Http/Controllers/Auth/LoginController.php"
+			],
+			[
+				"all-thread",
+				"resources/views/article/all-threads.blade.php"
+			],
+			[
+				"followart",
+				"app/Http/Controllers/FollowArticleController.php"
+			],
+			[
+				"pingcontroller",
+				"app/Http/Controllers/PingController.php"
+			],
+			[
+				"thread.",
+				"resources/assets/js/components/article/Thread.vue"
+			],
+			[
+				"all-threads",
+				"resources/views/article/all-threads.blade.php"
+			],
+			[
+				"admin",
+				"app/Http/Controllers/AdminController.php"
+			],
+			[
+				"notefica",
+				"resources/assets/js/components/Notefications.vue"
+			],
+			[
+				"userc",
+				"app/Http/Controllers/UserController.php"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+		"xdebug":
+		{
+			"hide_conflict": false
+		}
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 219.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
